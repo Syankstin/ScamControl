@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd77ab24ea90df14789b48bf1578d894, type: 3}
+  m_Name: Checker
+  m_EditorClassIdentifier: Assembly-CSharp::DesktopIcon
+  appName: Checker
+  appImage: {fileID: 21300000, guid: 2968c4dffd2d36445ac6646fc3313180, type: 3}
+  windowPrefab: {fileID: 6871812984200911466, guid: 1d4d50c74918c7c45ab63c4b1853c932, type: 3}
